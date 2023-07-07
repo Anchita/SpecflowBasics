@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/aroras/.dotnet/store/|arch|/|tfm|",
+      "/Users/aroras/.nuget/packages"
+    ]
+  }
+}
